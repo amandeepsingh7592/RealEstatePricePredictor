@@ -1,0 +1,3 @@
+[submodule "realestate"]
+	path = realestate
+	url = https://github.com/amandeepsingh7592/RealEstatePricePredictor
